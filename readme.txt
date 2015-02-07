@@ -1,5 +1,5 @@
 === Recommended For You ===
-Contributors: (Pramod Jodhani, shashanksahu, mukkiee)
+Contributors: promz, shashanksahu, mukkiee
 Tags: recommended, post, popup
 Requires at least: 3.0.1
 Tested up to: 4.1
