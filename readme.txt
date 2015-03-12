@@ -2,7 +2,7 @@
 
 Contributors: promz, shashanksahu, mukkiee
 
-Tags: recommended, post, popup
+Tags: recommended, post, popup, blogs, user engagement, recomended for you, recomended articles, related, related post, related articles, articles
 
 Requires at least: 3.0.1
 
