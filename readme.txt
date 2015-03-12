@@ -27,11 +27,11 @@ This Plugin displays the popup for the recommended posts at the end of the post 
 *Recomended For You* displays a related post for a particular post when user has reached half way to the end of post. This plugin can be extremely helpful for bloggers to engage their visitors by showing them the another related post of their choise. 
 Recommended For you make use of a smart algorith to show visitor a post related to the post they are reading, the recommended post is shown when user has reached half way to the end of post, which is the best time to show visitor a another article, when they are enjoying reading the most.
 Features:
-* Option toenable/disableRecomended for you
-* Option to show/hide Close buttom
-* Makes use of cookies, so as not to bother visitors who do not want to see the Recommended Articles 
-* Clean layout
-* Not obstructive
+1. Option toenable/disableRecomended for you
+1. Option to show/hide Close buttom
+1. Makes use of cookies, so as not to bother visitors who do not want to see the Recommended Articles 
+1. Clean layout
+1. Not obstructive
 
 *Perfect tool to improve user enagement to you blog.* 
 
