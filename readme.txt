@@ -8,7 +8,7 @@ Requires at least: 3.0.1
 
 Tested up to: 4.1
 
-Stable tag: 1.0
+Stable tag: 1.1
 
 License: GPLv2 or later
 
@@ -59,7 +59,7 @@ Features:
 
 
 * 0.9 initial release
-* 1.0 final release
+* 1.1 final release
 
 
 
