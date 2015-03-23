@@ -37,7 +37,7 @@ function rfy_content($content) {
 		}else{
 			$close_btn = "";
 		}
-		$addmore .= "<div class='rf_end_of_content'></div>";
+		$addmore = "<div class='rf_end_of_content'></div>";
 		$addmore .= "<div class='rf_floating' id='rf_".get_the_ID()."'>";
 		$addmore .= "<div class='rf_heading' > <h3>Recommended For You.</h3> </div>";
 		$addmore .= "<div class='rf_title' > <a href='$url' class='rfy_a'>$title</a> </div>";
